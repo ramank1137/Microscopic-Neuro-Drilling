@@ -47,4 +47,4 @@ This work is supported by:
 - **BIRAC-PACE Grant, Department of Biotechnology (DBT), Government of India**
 
 ## Our Pipeline in Action at [NETSLab](https://www.aiimsnets.org/index.asp)
-<img src="images/fig1_clean.png" alt="Pipeline Diagram"/>
+<img src="images/fig1_clean.jpg" alt="Pipeline Diagram"/>
