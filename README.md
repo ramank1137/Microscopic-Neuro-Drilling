@@ -15,7 +15,7 @@ Key Features:
 
 ## Figures
 <img src="images/fig2_clean.png" alt="Pipeline Diagram" width="400"/>
-<img src="images/fig4.png" alt="Table" width="400"/>
+<img src="images/fig4.png" alt="Table"/>
 
 ## 🧪 Methodology Summary
 
