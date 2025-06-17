@@ -6,14 +6,16 @@ This repository contains the source code and usage instructions for the deep lea
 
 ## 📌 Overview
 
-This work presents the **first well-annotated dataset** and a deep learning pipeline for **automated skill evaluation** of microscopic neuro-drilling, a critical component of neurosurgical training. The framework:
+This work presents the **first well-annotated dataset** and a deep learning pipeline for **automated skill evaluation** of microscopic neuro-drilling.
+Key Features:
 - Frames skill evaluation as a **rank estimation** task.
 - Introduces a **geometric-order learning loss** to improve feature separability.
 - Incorporates a **Unet-based segmentation module** to isolate the **region-of-interest (ROI)** for accurate assessment.
 - Outperforms traditional regression/classification approaches and even human experts on multiple metrics.
 
-## Framework and Data Distribution
+## Figures
 <img src="images/fig2_clean.png" alt="Pipeline Diagram" width="400"/>
+<img src="images/fig4.jpeg" alt="Table" width="400"/>
 
 ## 🧪 Methodology Summary
 
