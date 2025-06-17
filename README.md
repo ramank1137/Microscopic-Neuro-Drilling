@@ -12,6 +12,9 @@ This work presents the **first well-annotated dataset** and a deep learning pipe
 - Incorporates a **Unet-based segmentation module** to isolate the **region-of-interest (ROI)** for accurate assessment.
 - Outperforms traditional regression/classification approaches and even human experts on multiple metrics.
 
+## Framework
+![Framework](images/fig2_clean.png)
+
 ## 🧪 Methodology Summary
 
 - **Data**: 435 final-task images scored on a 10-point Likert scale by neurosurgeons.
@@ -26,9 +29,6 @@ This work presents the **first well-annotated dataset** and a deep learning pipe
 
 ### Dataset
 The dataset can be downloaded from [Micro-Drilling dataset](https://www.aiimsnets.org/research_neurotechnology.asp)
-
-### Framework
-![Framework](images/fig2_clean.png)
 
 
 ### Prerequisites
