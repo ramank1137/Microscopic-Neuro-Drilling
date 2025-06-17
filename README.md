@@ -12,7 +12,7 @@ This work presents the **first well-annotated dataset** and a deep learning pipe
 - Incorporates a **Unet-based segmentation module** to isolate the **region-of-interest (ROI)** for accurate assessment.
 - Outperforms traditional regression/classification approaches and even human experts on multiple metrics.
 
-## Framework
+## Framework and Data Distribution
 <img src="images/fig2_clean.png" alt="Pipeline Diagram" width="400"/>
 
 ## 🧪 Methodology Summary
