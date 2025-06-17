@@ -45,3 +45,6 @@ more instructions comming soon..
 This work is supported by:
 - **Indian Council of Medical Research (ICMR)**
 - **BIRAC-PACE Grant, Department of Biotechnology (DBT), Government of India**
+
+## Our Pipeline in Action at [NETSLab](https://www.aiimsnets.org/index.asp)
+<img src="images/fig1_clean.png" alt="Pipeline Diagram"/>
