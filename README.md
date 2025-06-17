@@ -14,7 +14,7 @@ Key Features:
 - Outperforms traditional regression/classification approaches and even human experts on multiple metrics.
 
 ## Figures
-<img src="images/fig2_clean.png" alt="Pipeline Diagram" width="400"/>
+<img src="images/fig2_clean.png" alt="Pipeline Diagram"/>
 <img src="images/fig4.png" alt="Table"/>
 
 ## 🧪 Methodology Summary
