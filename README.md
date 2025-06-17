@@ -13,7 +13,7 @@ This work presents the **first well-annotated dataset** and a deep learning pipe
 - Outperforms traditional regression/classification approaches and even human experts on multiple metrics.
 
 ## Framework
-![Framework](images/fig2_clean.png)
+<img src="images/fig2_clean.png" alt="Pipeline Diagram" width="400"/>
 
 ## 🧪 Methodology Summary
 
